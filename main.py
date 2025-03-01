@@ -20,7 +20,7 @@ def get_joke():
     site_link = "https://icanhazdadjoke.com/"
     headers = {
         'Accept': 'application/json',
-        'User-Agent': 'Telegram Bot (https://github.com/ianburke/telegram-bot-fly-io-starter-1)'
+        'User-Agent': 'Telegram Bot (https://github.com/ianburke/telegram-bot-fly-io-starter)'
     }
     
     try:
